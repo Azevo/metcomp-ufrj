@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-5. Uma das funções mais usadas em ciência e tecnologia é a função Gaussiana
+Uma das funções mais usadas em ciência e tecnologia é a função Gaussiana
 
 f(x) = 1 /( s.((2.pi)^(1/2)) ) . e^(-1/2 . ((x-m)/s)²)
 

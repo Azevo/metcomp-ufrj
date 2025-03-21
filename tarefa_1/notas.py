@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-15. Escreva um programa (notas.py) que receba um numero inteiro n correspondente á
+Escreva um programa (notas.py) que receba um numero inteiro n correspondente á
 um valor em reais. Calcule a quantidade mínima de notas que um banco deve fornecer
 para atingir o valor, sabendo que as notas disponíveis sao de 100, 50, 20, 10 e 5 reais.
 """

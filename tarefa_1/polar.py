@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-2. Escreva um programa em Python (polar.py) que, dado um par de coordenadas cartesianas em duas dimensões, x e y, calcule e imprima o par de coordenadas polares r e θ
+Escreva um programa em Python (polar.py) que, dado um par de coordenadas cartesianas em duas dimensões, x e y, calcule e imprima o par de coordenadas polares r e θ
 correspondente. Imprima θ tanto em radianos como em graus.
 """
 

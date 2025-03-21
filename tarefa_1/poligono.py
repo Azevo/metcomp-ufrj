@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-7. A área de um polígono regular de N lados de comprimento L é a soma das áreas dos N
+A área de um polígono regular de N lados de comprimento L é a soma das áreas dos N
 triângulos isósceles em que pode ser dividido. Pode se mostrar que esta área do polígono
 vale
 

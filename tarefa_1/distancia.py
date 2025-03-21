@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-13. A distância entre dois pontos da superfície da Terra é dada por
+A distância entre dois pontos da superfície da Terra é dada por
 
 d = Rm x arccos(sin(t1) x sin(t2) + cos(t1) x cos(t2) x cos(g1 - g2)) 
 

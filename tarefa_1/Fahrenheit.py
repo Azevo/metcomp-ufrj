@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-1.Escreva um programa em Python (Fahrenheit.py), que para uma temperatura dada em ◦Celsius, calcule e imprima na tela seu valor em Fahrenheit
+Escreva um programa em Python (Fahrenheit.py), que para uma temperatura dada em ◦Celsius, calcule e imprima na tela seu valor em Fahrenheit
 """
 
 temp = float(input('Temperatura em Celsius: ')) #Recebe um valor real referente a temperatura

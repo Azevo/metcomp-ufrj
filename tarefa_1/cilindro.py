@@ -4,7 +4,7 @@ Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Compu
 """
 
 """
-6.Escreva um programa em Python (cilindro.py) que, dados o raio R e a altura H de
+Escreva um programa em Python (cilindro.py) que, dados o raio R e a altura H de
 um cilindro, e mais as suas respectivas incertezas, σR e σH, calcule e imprima o volume
 (V ) desse cilindro com sua incerteza (σV ). (Verifique que o quadrado da incerteza no
 volume e dado por σ²V = (2πR h σR)² + (πR²σH)² .)

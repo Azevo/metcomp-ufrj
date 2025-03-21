@@ -1,3 +1,12 @@
+"""
+Universidade Federal do Rio de Janeiro // Instituto de Física // Métodos Computacionais em Física I // Tarefa 2
+"""
+
+"""
+Escreva um programa (fahrenheit.py) em Python que imprima uma tabela de conversão de ◦C para Fahrenheit, de -20◦C a 40◦C em passos de 5◦C.
+As colunas da tabela devem estar alinhadas e os graus em Fahrenheit impressos com duas casas decimais
+"""
+
 print("Programa que imprime uma tabela com temperatuas em Celcius e Fahrenheit")
 c = -20 # temperatura inicial do enunciado, caso mudada a tabela pode ou não ficar desorgaizada
 
